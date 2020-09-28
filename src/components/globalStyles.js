@@ -80,4 +80,7 @@ export const GlobalStyles = createGlobalStyle`
       padding-left: 10px;
       padding-right: 10px;
   }
+  .jss7{
+    padding: 10px;
+  }
 `
