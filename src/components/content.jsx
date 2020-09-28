@@ -11,6 +11,7 @@ import {makeStyles, useTheme} from '@material-ui/core/styles';
 import {GlobalStyles} from "./globalStyles"
 import SideHeader from "./sidebarHeader.js";
 import SideContent from "./sidebarContent.js";
+import PhotoHeader from './photoHeader'
 import Intro from './intro'
 import JobExperience from './jobExperience'
 import Projects from './projects'
@@ -151,6 +152,7 @@ return (
       </nav>
       <main className={classes.content}>
         <div className={classes.toolbar} />
+          <PhotoHeader/>
           <Intro/>
           <JobExperience/>
           <Projects/>
