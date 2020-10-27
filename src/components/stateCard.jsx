@@ -48,7 +48,7 @@ export default function StateCard() {
                 Starkville, MS. 2016-2020
             </Typography>
             <Typography variant="body2" color="textSecondary" component="p">
-                <b>Bachelor of Science in Software Engineering</b>
+                <b>B.S. in Software Engineering</b>
             </Typography>
             <Typography variant="body2" color="textSecondary" component="p">
                 Minor in Philosophy
