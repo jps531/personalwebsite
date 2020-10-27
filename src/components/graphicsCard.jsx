@@ -53,7 +53,7 @@ export default function StateCard() {
                 <Typography variant="body2" color="textSecondary" component="p">
                     Primarily, I enjoy making sports graphics, often graphics related to Mississippi State sports, but my photoshop abilites
                     have come in handy for both scholastic and professional purposes. Learning how to utilize Adobe XD alongside Photoshop has
-                    allowed me to made high-fidelity UI mockups, ensuring that projects I am working on have a well designed and thought out user experience!
+                    allowed me to make high-fidelity UI mockups, ensuring that projects I am working on have a well designed and thought out user experience!
                 </Typography>
             </div>
             </CardContent>

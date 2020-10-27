@@ -83,4 +83,21 @@ export const GlobalStyles = createGlobalStyle`
   .jss7{
     padding: 10px;
   }
+  #headerPic{
+    max-width: 800px;
+    width:100%;
+    height:100%;
+  }
+  #headerPicDiv{
+    margin-bottom: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: ${({ theme }) => theme.buttonBack};
+    border-radius: 10px;
+  }
 `
