@@ -9,7 +9,7 @@ const SideHeader = ({ collapsed }) => (
     <div style={{ padding: collapsed ? 8 : 16, transition: "0.3s", textAlign: 'center' }}>
     <div style={{ display: 'flex', justifyContent: 'center', paddingBottom: 16 }}>
         <Avatar
-            src="https://i.imgur.com/LS0EYuR.png"
+            src="https://i.imgur.com/96iZRGG.jpg"
             style={{
             width: collapsed ? 150 : 150,
             height: collapsed ? 150 : 150,

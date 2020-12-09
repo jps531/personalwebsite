@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import Container from '@material-ui/core/Container'
 import Typography from '@material-ui/core/Typography';
 import AdtranCard from './adtranCard'
+import CamgianCard from './camgianCard'
 import Grid from '@material-ui/core/Grid';
 
 export default class JobExperience extends Component {
@@ -15,7 +16,10 @@ export default class JobExperience extends Component {
                 <Grid container spacing={0} style={{ display: 'flex', justifyContent: 'center' }}>
                     <Grid item lg={1}>
                     </Grid>
-                    <Grid item lg={10} style={{ display: 'flex', justifyContent: 'center' }}>
+                    <Grid item lg={5} style={{ display: 'flex', justifyContent: 'center' }}>
+                        <CamgianCard/>
+                    </Grid>
+                    <Grid item lg={5} style={{ display: 'flex', justifyContent: 'center' }}>
                         <AdtranCard/>
                     </Grid>
                     <Grid item lg={1}>

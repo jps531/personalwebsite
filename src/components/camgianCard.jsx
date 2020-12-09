@@ -18,7 +18,7 @@ const useStyles = makeStyles({
     },
   });
 
-export default function AdtranCard() {
+export default function CamgianCard() {
     const classes = useStyles();
 
     return (
@@ -26,13 +26,13 @@ export default function AdtranCard() {
         <CardActionArea>
             <CardMedia
             className={classes.media}
-            image="https://i.imgur.com/OO1hDlU.jpg"
+            image="https://i.imgur.com/VCR90PI.png"
             title="ADTRAN"
             />
             <CardContent style={{ minHeight: '157px' }}>
             <div style={{ display: 'flex', justifyContent: 'center', marginTop: '-75px' }}>
                 <Avatar
-                src="https://i.imgur.com/Kf6nL7d.png"
+                src="https://i.imgur.com/sGstazn.png"
                 style={{
                 width: 75,
                 height: 75,
@@ -42,42 +42,25 @@ export default function AdtranCard() {
                 />
             </div>
             <Typography component="h2" variant={"h6"} style={{ marginTop: '.35rem' }} noWrap>
-                ADTRAN, Inc.
+                Camgian Microsystems
             </Typography>
             <Typography variant="body2" color="textSecondary" component="p">
-                Software Engineering Co-Op
+                Software Engineer
             </Typography>
             <Typography variant="body2" color="textSecondary" component="p">
-                Huntsville, AL
+                Starkville, MS
             </Typography>
             <Typography gutterBottom variant="body2" color="textSecondary" component="p">
-                August 2019 - December 2019
+                January 2021 -
             </Typography>
             <br/>
             <hr/>
             <br/>
-            <div style={{textAlign: 'left'}}>
-                <Typography variant="body2" color="textSecondary" component="p">
-                    - Worked on an agile software development team to develop and refine front-end software built with Angular.
-                </Typography>
-                <br/>
-                <Typography variant="body2" color="textSecondary" component="p">
-                    - Obtained a new perspective and interest in UX issues through various bug fixes and feature implementations.
-                </Typography>
-                <br/>
-                <Typography variant="body2" color="textSecondary" component="p">
-                    - Gained invaluable experience working with a team within a professional environment.
-                </Typography>
-                <br/>
-                <Typography variant="body2" color="textSecondary" component="p">
-                    - Competed in company-wide hackathon, working on a team that won <i>Best Co-Op Project.</i>
-                </Typography>
-            </div>
             </CardContent>
         </CardActionArea>
         <CardActions style={{ display: 'flex', justifyContent: 'center'}}>
-            <Button id="cardLink" size="small" color="primary" href="https://www.adtran.com/" target="_blank">
-            adtran.com
+            <Button id="cardLink" size="small" color="primary" href="https://www.camgian.com/" target="_blank">
+            camgian.com
             </Button>
         </CardActions>
         </Card>

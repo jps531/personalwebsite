@@ -11,7 +11,7 @@ export default class Intro extends Component {
             </Typography>
             <hr/>
             <Typography color={"textSecondary"} class={"secondaryTextBody"} paragraph noWrap gutterBottom>
-                Hi! My name is Paul, and I'm a soon-to-be Software Engineering graduate from Mississippi State University!
+                Hi! My name is Paul, and I'm a Software Engineering graduate from Mississippi State University!
             </Typography>
             <Typography color={"textSecondary"} class={"secondaryTextBody"} paragraph noWrap gutterBottom>
                 I grew up in Taylorsville, Mississippi, a small town (~1400 population) in south Mississippi. I was raised a Mississippi State fan by my father
@@ -21,8 +21,8 @@ export default class Intro extends Component {
             </Typography>
             <Typography color={"textSecondary"} class={"secondaryTextBody"} paragraph noWrap gutterBottom>
                 It worked out perfectly that the university which I had grown up visiting multiple times a year for football and baseball games offered a curriculum in
-                Software Engineering. After graduating High School in 2016, I moved to Starkville and began pursuing a degree. Now, four years later, I'm set to graduate this
-                November with a Bachelor of Science in Software Engineering. I've learned a lot and gained a great deal of experience in my time at Mississippi State, and I'm
+                Software Engineering. After graduating High School in 2016, I moved to Starkville and began pursuing a degree. Four years later, in November of 2020 
+                I graduated with a Bachelor of Science in Software Engineering. I've learned a lot and gained a great deal of experience in my time at Mississippi State, and I'm
                 looking forward to translating what I've learned into a career.
             </Typography>
             <Typography color={"textSecondary"} class={"secondaryTextBody"} paragraph noWrap gutterBottom>

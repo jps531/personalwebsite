@@ -34,7 +34,7 @@ const contactInfo = [
     },
     {
       primaryText: "View Resume",
-      link: "https://www.dropbox.com/s/jmgpr8utaoer58q/JeffreyPaulSullivan_Resume.pdf?dl=0",
+      link: "https://www.dropbox.com/s/tzcfh4jwh78jf93/JeffreyPaulSullivan_Resume_Dec20.pdf?dl=0",
       icon: <ListAlt/>
     }
   ];

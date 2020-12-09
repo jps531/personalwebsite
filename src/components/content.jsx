@@ -115,7 +115,7 @@ return (
             </Typography>
           </div>
           <div style={{ display: 'flex', justifyContent: 'center', minWidth: '43px'}}>
-            <Avatar src="https://i.imgur.com/LS0EYuR.png" style={{ width: 40, height: 40 }} />
+            <Avatar src="https://i.imgur.com/96iZRGG.jpg" style={{ width: 40, height: 40 }} />
           </div>
         </Toolbar>
       </AppBar>

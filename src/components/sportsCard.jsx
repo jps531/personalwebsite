@@ -26,7 +26,7 @@ export default function SportsCard() {
         <CardActionArea>
             <CardMedia
             className={classes.media}
-            image="https://i.imgur.com/HYOiSns.jpg"
+            image="https://i.imgur.com/ZBYxCP0.jpg"
             title="Sports!"
             />
             <CardContent style={{ minHeight: '157px' }}>
@@ -59,7 +59,7 @@ export default function SportsCard() {
         </CardActionArea>
         <CardActions style={{ display: 'block' }}>
             <Button id="cardLink" size="small" color="primary" href="https://www.espn.com/college-football/recap?gameId=401237035" target="_blank">
-                Still Can't Believe This Happened
+                This was more impressive at the time
             </Button>
             <Button id="cardLink" size="small" color="primary" href="https://youtu.be/H6raROCHPL0?t=4980" target="_blank">
                 National TV Screentime

@@ -54,7 +54,7 @@ export default function StateCard() {
                 Minor in Philosophy
             </Typography>
             <Typography variant="body2" color="textSecondary" component="p">
-                GPA 3.88/4.00
+                GPA 3.90/4.00
             </Typography>
             </CardContent>
         </CardActionArea>
